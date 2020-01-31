@@ -1,0 +1,35 @@
+body {
+    color: rgb(26, 51, 26);
+    margin: 20px;
+    background-image: url(sharon-mccutcheon-unsplash.jpg;
+    );}
+h1 {
+    color: #0000ff;
+}
+img {
+    width: 300px;
+}
+.my a{
+    text-decoration: none;
+    color: rgb(78, 15, 78);
+
+}
+.hh {
+    border-bottom: solid;
+}
+#h2 {
+    font-size: 50px;
+}
+section h2, h2 { 
+    color: blueviolet;
+}
+a:visited {
+    color: green;
+}
+a:focus {color: hotpink;}
+a {
+    border-radius: 4px;
+    background-color: lime;
+    padding: 10px;
+    border-radius: 4px;
+}
